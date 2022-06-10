@@ -1,4 +1,4 @@
-package qmp;
+package servicios;
 
 public class EstadoDelTiempo {
   Integer temperatura;

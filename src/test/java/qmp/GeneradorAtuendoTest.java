@@ -2,13 +2,8 @@ package qmp;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import servicios.ServicioMeteorologico;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.mock;
 
 class GeneradorAtuendoTest {
@@ -20,6 +15,6 @@ class GeneradorAtuendoTest {
   }
   @Test
   void generarAtuendo() {
-
+      //acá se probaría el generador con el servicio meteorologico mockeado
   }
 }

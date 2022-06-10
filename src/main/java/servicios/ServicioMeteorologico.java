@@ -1,7 +1,4 @@
-package qmp;
-
-import java.util.List;
-import java.util.Map;
+package servicios;
 
 public interface ServicioMeteorologico {
 

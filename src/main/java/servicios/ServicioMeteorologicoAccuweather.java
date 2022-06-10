@@ -1,6 +1,7 @@
-package qmp;
+package servicios;
 import accuweather.AccuWeatherAPI;
-import java.util.List;
+import servicios.EstadoDelTiempo;
+
 import java.util.Map;
 
 public class ServicioMeteorologicoAccuweather {
